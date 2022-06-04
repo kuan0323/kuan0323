@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hi !
+> Some content for test
 
+- unordered
+- list
+- test
+
+**bold**
+
+**My name is GUAN-QIAN, CHEN 🎈**
+
+~~delete~~
+
+---
+
+![ME](https://i.imgur.com/l5I3HgQ.jpg)
 <!--
 **kuan0323/kuan0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

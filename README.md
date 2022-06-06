@@ -2,7 +2,19 @@
 
 
 **My name is GUAN-QIAN, CHEN 🎈**
+> Some information about ME: 
+> 
+> 🏫 School: National Central University
+> 
+> 💻 Department: Management Information System
+> 
+> 🎂 Birthday: 2022/3
+---
 
+Contact me 🙋
+
+- e-mail: unknown@gmail.com
+- phone: 0934215722
 
 
 ---

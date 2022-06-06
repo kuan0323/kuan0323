@@ -2,13 +2,15 @@
 
 
 **My name is GUAN-QIAN, CHEN 🎈**
-> Some information about ME: 
-> 
-> 🏫 School: National Central University
-> 
-> 💻 Department: Management Information System
-> 
-> 🎂 Birthday: 2022/3
+
+Some information about ME:
+
+🏫 School: National Central University
+
+💻 Department: Management Information System
+
+🎂 Birthday: 2022/3
+
 ---
 
 Contact me 🙋

@@ -1,7 +1,7 @@
 ### Hi !
 
 
-**My name is GUAN-QIAN, CHEN 🎈**
+**My name is Ronni, CHEN 🎈**
 
 Some information about ME:
 

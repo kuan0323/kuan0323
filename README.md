@@ -1,7 +1,6 @@
 ### Hi !
 
-
-**My name is Ronni, CHEN 🎈**
+### I'm Ronni, CHEN 🎈
 
 Some information about ME:
 

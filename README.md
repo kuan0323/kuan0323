@@ -8,15 +8,6 @@ Some information about ME:
 
 💻 Department: Management Information System
 
-🎂 Birthday: 2022/3
-
----
-
-Contact me 🙋
-
-- e-mail: unknown@gmail.com
-- phone: 0934215722
-
 
 ---
 

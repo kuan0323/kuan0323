@@ -11,7 +11,6 @@ Some information about ME:
 
 ---
 
-![ME](https://i.imgur.com/l5I3HgQ.jpg)
 <!--
 **kuan0323/kuan0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

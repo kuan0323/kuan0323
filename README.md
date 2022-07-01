@@ -9,7 +9,6 @@ Some information about ME:
 💻 Department: Management Information System
 
 
----
 
 <!--
 **kuan0323/kuan0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
